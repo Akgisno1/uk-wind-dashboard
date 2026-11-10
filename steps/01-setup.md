@@ -1,5 +1,7 @@
 # Step 1 — One repo: React frontend + FastAPI backend + Docker
 
+> **Status: done.** This scaffold is already built and committed, and verified with `docker compose up`. The doc below explains how it is put together.
+
 **Goal of this step:** one git repo, two apps in it, both running locally and in Docker, and a health check proving they talk to each other. No Elexon data yet.
 
 ---
